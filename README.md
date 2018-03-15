@@ -996,6 +996,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [statik](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
 * [templify](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 * [vfsgen](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
+* [packr](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 
 ## Science and Data Analysis
 
